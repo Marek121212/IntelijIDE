@@ -9,7 +9,7 @@ public class Main {
         WinPane plocha = new WinPane(500,500);
         MojaKorytnacka jozko = new MojaKorytnacka();
         plocha.add(jozko);
-        jozko.kriz(100);
+        jozko.plnySestUholnik(100);
 
     }
 }
