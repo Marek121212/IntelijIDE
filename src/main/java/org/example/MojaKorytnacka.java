@@ -135,6 +135,19 @@ public class MojaKorytnacka extends Turtle{
                 this.turn(-54);
             }
         }
+
+    public void obrazec1 (double strana)
+    {
+        this.setPenColor(Color.blue);
+        this.setPenWidth(2);
+        for (int i = 0; i<10; i++)
+        {
+            this.stvorec1(strana);
+            this.turn(90);
+            this.step(strana/2);
+            this.turn(-54);
+        }
+    }
     }
 
 
