@@ -1,15 +1,8 @@
 package org.example;
-
+import sk.upjs.jpaz2.Turtle;
 import java.awt.*;
 
 public class MojaKorytnacka extends Turtle{
-    package org.example;
-
-import sk.upjs.jpaz2.Turtle;
-
-import java.awt.*;
-
-    public class MojaKorytnacka extends Turtle {
 
         public void trojuholnik(double strana)
         {
@@ -144,4 +137,4 @@ import java.awt.*;
         }
     }
 
-}
+
