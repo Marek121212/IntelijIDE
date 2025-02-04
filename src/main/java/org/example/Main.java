@@ -9,7 +9,10 @@ public class Main {
         WinPane plocha = new WinPane(500,500);
         MojaKorytnacka jozko = new MojaKorytnacka();
         plocha.add(jozko);
-        jozko.plnySestUholnik(100);
+        jozko.trojuholnik(100);
+        Vedec albert = new Vedec();
+        plocha.add(albert);
+        System.out.print(albert.pocetCifier(555));
 
     }
 }

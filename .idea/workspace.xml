@@ -4,11 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1b32e4d-5dc0-4275-b16a-a0591dc85541" name="Changes" comment="" />
+    <list default="true" id="a1b32e4d-5dc0-4275-b16a-a0591dc85541" name="Changes" comment="Zmena 7.11.2024">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MojaKorytnacka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MojaKorytnacka.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,13 +30,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/marek/IdeaProjects/jpaz2-1.1.1.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.5149425&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,6 +50,72 @@
       <option name="presentableId" value="Default" />
       <updated>1687242212744</updated>
     </task>
+    <task id="LOCAL-00001" summary="prva zmena">
+      <option name="closed" value="true" />
+      <created>1728368433240</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728368433240</updated>
+    </task>
+    <task id="LOCAL-00002" summary="druha zmena">
+      <option name="closed" value="true" />
+      <created>1728368567432</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728368567433</updated>
+    </task>
+    <task id="LOCAL-00003" summary="tretia zmena">
+      <option name="closed" value="true" />
+      <created>1728368670878</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728368670879</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Zmena">
+      <option name="closed" value="true" />
+      <created>1730967078736</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730967078736</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Zmena">
+      <option name="closed" value="true" />
+      <created>1730967292323</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730967292323</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Zmena1">
+      <option name="closed" value="true" />
+      <created>1730967374372</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730967374372</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Zmena 7.11.2024">
+      <option name="closed" value="true" />
+      <created>1730980599765</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730980599765</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="prva zmena" />
+    <MESSAGE value="druha zmena" />
+    <MESSAGE value="tretia zmena" />
+    <MESSAGE value="Zmena" />
+    <MESSAGE value="Zmena1" />
+    <MESSAGE value="Zmena 7.11.2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zmena 7.11.2024" />
   </component>
 </project>
